@@ -1,3 +1,3 @@
 👋 
 - Programming languages:
-- C - Java - Python - Arduino
+- C - GO - Java - Python - Arduino
