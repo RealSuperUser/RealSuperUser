@@ -1,7 +1,7 @@
-- Respect the privacy of others,
-- Think before you take action,
-- With great power, it comes responsibility.
-- ----
-- Found @ SyNdicate Foundation
-- Specialist @ Linux BSD Java 
-- Learn @ C CPP
+Respect the privacy of others,
+Think before you take action,
+With great power, it comes responsibility.
+---
+Ceo @ https://syndicatefoundation.ir/
+Specialist @ Linux BSD Java 
+Learning C & CPP
