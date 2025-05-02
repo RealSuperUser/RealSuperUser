@@ -1,7 +1,7 @@
-Respect the privacy of others,
-Think before you take action,
-With great power, it comes responsibility.
+- Respect the privacy of others,
+- Think before you take action,
+- With great power, it comes responsibility.
 ---
-Ceo @ https://syndicatefoundation.ir/
-Specialist @ Linux BSD Java 
-Learning C & CPP
+- Ceo @ https://syndicatefoundation.ir/
+- Specialist @ Linux BSD Java 
+- Learning C & CPP
