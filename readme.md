@@ -3,5 +3,6 @@
 - With great power, it comes responsibility.
 ---
 - Ceo @ https://syndicatefoundation.ir/
-- Specialist @ Linux BSD Java 
-- Learning C & CPP
+- Specialist @ Linux BSD Java
+- New to Rust, CPP
+- Learning C
