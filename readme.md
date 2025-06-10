@@ -20,11 +20,11 @@ I'm currently working at **@SyNdicateFoundation**, NobleCraft, and a bunch of ot
 
 ## Socials
 <a href="SyNdicateFoundation.ir" target="_blank">
-  https://img.shields.io/badge/Website-SyNdicateFoundation.ir-grey
+  <img src="https://img.shields.io/badge/Website-SyNdicateFoundation.ir-grey"/>
 </a>
 <a href="t.me/SyNdicateFoundation_IR" target="_blank">
-  https://img.shields.io/badge/Telegram-SyNdicateFoundation_ir-grey
+  <img src="https://img.shields.io/badge/Telegram-SyNdicateFoundation_ir-grey"/>
 </a>
 <a href="" target="_blank">
-  https://img.shields.io/badge/Discord-@Mnrchey-grey
+  <img src="https://img.shields.io/badge/Discord-@Mnrchey-grey"/>
 </a>
