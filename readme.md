@@ -19,12 +19,12 @@ I'm currently working at **@SyNdicateFoundation**, NobleCraft, and a bunch of ot
 - Working on open-src & closed-src projects
 
 ## Socials
-<a href="SyNdicateFoundation.ir">
+<a href="SyNdicateFoundation.ir" target="_blank">
   https://img.shields.io/badge/Website-SyNdicateFoundation.ir-grey
 </a>
-<a href="t.me/SyNdicateFoundation_IR">
+<a href="t.me/SyNdicateFoundation_IR" target="_blank">
   https://img.shields.io/badge/Telegram-SyNdicateFoundation_ir-grey
 </a>
-<a href="">
+<a href="" target="_blank">
   https://img.shields.io/badge/Discord-@Mnrchey-grey
 </a>
