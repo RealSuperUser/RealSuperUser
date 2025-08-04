@@ -11,7 +11,7 @@ I'm currently working at **@SyNdicateFoundation**, NobleCraft, and a bunch of ot
 
 ## Technologies
 
-[![Technologies](https://skillicons.dev/icons?i=c,cpp,rust,java,arduino,html,css,tailwind,linux,mysql,github,git&perline=8)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=c,cpp,rust,go,java,arduino,html,css,tailwind,linux,mysql,github,git&perline=8)](https://skillicons.dev)
 
 ## Recent Activity
 
