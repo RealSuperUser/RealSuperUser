@@ -15,8 +15,7 @@ I'm currently working at **@SyNdicateFoundation**, NobleCraft, and a bunch of ot
 
 ## Recent Activity
 
-- Learning Rust
-- Working on open-src & closed-src projects
+- Maintaining currently available projects.
 
 ## Socials
 <a href="https://SyNdicateFoundation.ir" target="_blank">
